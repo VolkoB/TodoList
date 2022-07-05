@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: aqua;
+}
+
+.main-btn {
+  width: 200px;
+  background: black;
+}/*# sourceMappingURL=style.css.map */
