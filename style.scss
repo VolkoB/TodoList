@@ -7,9 +7,15 @@ body {
 }
 
 .main{
+    &-form{
+        display: flex;
+        flex-direction: column;
+    }
     &-btn{
         width: 200px;
-        background: black;
+        background: white;
+        border: 4px 1px red;
+        border-radius: 10px;
     }
 }
 
